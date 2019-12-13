@@ -1,0 +1,1 @@
+mails_send.blade.php

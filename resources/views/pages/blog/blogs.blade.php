@@ -1,0 +1,1 @@
+blogs.blade.php
